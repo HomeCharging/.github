@@ -12,4 +12,4 @@ Backend services, frontend applications, and documentation for the project.
 
 ---
 
-*Internal development project*
+*Internal development project* | [*Issue Board*](https://github.com/orgs/HomeCharging/projects/1)
